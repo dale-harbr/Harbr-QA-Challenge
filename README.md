@@ -2,7 +2,7 @@
 
 The goal of this challenge is to assess that, given a pre-developed application composed by a front-end UI and back-end API, you:
 - are able to create a test environment using the relevant tools, such as Git, npm and node.js;
-- are a detail-oriented Test Engineer that is able to go through feature specifications, create a test plan and manually check if the app is acting accordingly;
+- are a detail-oriented Test Engineer that is able to go through feature specifications, and manually check if the app is acting accordingly;
 - are able to automate API level tests using a programming language and/or test framework or library, such as Mocha, Cypress, RestAssured, etc.; and
 - are able to automate UI level tests using a programming language and/or test framework or library, such as TestCafe, Cypress, Selenium, Puppeteer, PlayWright, etc.
 
