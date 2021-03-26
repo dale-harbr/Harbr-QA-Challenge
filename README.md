@@ -47,4 +47,4 @@ Please complete the following:
 2) Create a Readme file telling us what your test case is, the expected outcome, and how to run it; and
 3) Commit and push those to a folder called **ui-test** on the public repository you created on **Task 1**.
 
-## Once complete, please email us your public git URL. ##
+# Once complete, you can choose to share your repo with us as you prefer, send us your public repo url, keep your repo private and share with us using gitfront.io or zip up your files and use a file transfer service such as wetransfer.com #
