@@ -10,9 +10,10 @@ Read the application's requirements from the **Requirements.md** file on the roo
 
 ## Considerations ##
 - The task outputs will have to be published in a public git repository. You are free to use any resources you want to research.
-- The task is intended to take no longer than 2 hours. Do not spend more than this time.
+- The task is intended to take no longer than 2-3 hours. Do not spend more than this time.
 - The automation tasks (2 and 3) are aimed at showcasing your programming and test automation skills. You are free to use any programming language you want, but as we want to make sure you'll be able to use or learn (fast) the tech stacks we use. At Harbr we use JS for our Frontends and Python for our Backend, so using either of them is an extra.
 - If you need to take any assumptions please note them as part of your answers.
+- Feel free to edit the code of the Customer App web application, if it was to improve your tests.
 
 ## Task 1: Test Environment Setup ##
 
@@ -27,7 +28,7 @@ It is very important for a Test Engineer to be able to create a test environment
 
 ## Task 2: Create an automated API level test scenario ##
 
-Estimated time: 50 minutes
+Estimated time: 1 hour
 
 Unfortunately, software applications are not perfect neither are the engineers that build them, so as you could see some of the API specs were not followed. To avoid having to manually run all the tests again after each new app version is to be released a good strategy is to create automated tests that could be run quickly and with little effort.
 
@@ -38,7 +39,7 @@ Please complete the following:
 
 ## Task 3: Create an automated UI level test scenario ##
 
-Estimated time: 50 minutes
+Estimated time: 1 hour
 
 Not only do backend engineers make mistakes, but the frontend layer is also responsible for checking business rules and presenting the correct information to the user. Therefore we also need to have ways to automatically check it.
 
